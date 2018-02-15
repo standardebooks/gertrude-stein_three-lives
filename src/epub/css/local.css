@@ -6,6 +6,15 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+[epub|type~="epigraph"] p{
+	margin-top: 4em;
+}
+
+[epub|type~="epigraph"] cite{
+	font-style: normal;
+	font-variant: small-caps;
+}
+
 [epub|type~="z3998:letter"] footer{
 	text-align: right;
 }
