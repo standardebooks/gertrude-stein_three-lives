@@ -37,7 +37,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15408</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
@@ -49,6 +49,7 @@
 		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Gertrude_Stein</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006977</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Paul Cézanne</dc:contributor>
 		<meta property="file-as" refines="#artist">Cézanne, Paul</meta>
