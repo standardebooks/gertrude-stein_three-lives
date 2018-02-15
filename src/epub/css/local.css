@@ -5,3 +5,15 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+[epub|type~="z3998:letter"] footer{
+	text-align: right;
+}
+
+[epub|type~="z3998:valediction"]{
+	margin-right: 1em;
+}
+
+[epub|type~="z3998:sender"]{
+	font-variant: small-caps;
+}
