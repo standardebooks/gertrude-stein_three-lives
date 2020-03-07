@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-good-anna-1.xhtml">
+		<ignore>
+			<code>t-002</code>
+			<reason>This strange punctuation appears in print, and we consider it a prose style quirk.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
