@@ -30,7 +30,7 @@
 		<dc:title id="title">Three Lives</dc:title>
 		<meta property="file-as" refines="#title">Three Lives</meta>
 		<meta property="title-type" refines="#title">main</meta>
-		<meta property="dcterms:alternate" refines="#title">3 Lives</meta>
+		<meta property="dcterms:alternative" refines="#title">3 Lives</meta>
 		<dc:title id="subtitle">Stories of the Good Anna, Melanctha and the Gentle Lena</dc:title>
 		<meta property="file-as" refines="#subtitle">Stories of the Good Anna, Melanctha and the Gentle Lena</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
