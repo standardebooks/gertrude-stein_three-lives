@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/gertrude-stein/three-lives</dc:identifier>
 		<dc:date>2018-02-28T21:29:54Z</dc:date>
@@ -42,12 +42,12 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113473</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A chronicle of the lives of three working-class women from the early 20th century.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A chronicle of the lives of three working-class women from the early 20th century.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In &lt;i&gt;Three Lives&lt;/i&gt; are the stories of three working-class woman from Bridgepoint—a town loosely based on Baltimore—in the early twentieth century. Each story tells of the hopes, loves, romances and sadnesses of the women as they live their lives.&lt;/p&gt;
 			&lt;p&gt;Written in a unconventional style, the lives of the three women are uncovered through their layered conversations and interactions more than through detailed depictions. The book is notable for its descriptions of homosexual romance, something that at the time in the &lt;abbr&gt;USA&lt;/abbr&gt; wasn’t accepted (indeed, &lt;a href="https://standardebooks.org/ebooks/gertrude-stein"&gt;Gertrude Stein&lt;/a&gt; moved with her partner to Paris to be able to live openly).&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Three Lives&lt;/i&gt; was Gertrude Stein’s first published book, and although the sales weren’t as expected it was generally well received by critics. It’s considered today to be among her more accessible books, and is a regular on English literature curricula.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15408</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.510795</dc:source>
